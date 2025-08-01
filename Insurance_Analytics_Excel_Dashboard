@@ -1,0 +1,17 @@
+Insurance Analytics Dashboard (Excel)
+List of Kpis:
+- Total policies in the system, both active and inactive
+- Total customers holding one or more policies
+- Gender-wise policy count to analyze adoption trends
+- Breakdown of policies by policy type
+- Policies set to expire in the current calendar year for renewal tracking
+- Premium revenue growth rate over time
+- Claim status summary (approved, rejected, pending)
+- Payment status overview (paid, overdue, pending)
+- Total claim amount paid out
+
+  **Microsoft Excel**
+  - Pivot Tables
+  - Charts & Graphs
+  - Slicers and Interactivity
+  - Conditional Formatting
